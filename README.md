@@ -7,6 +7,6 @@ Below are the functionality implemented in this project.
   4. Getting the movie details.
   
  This is how webpage looks like.
- 
- ![Screenshot (4)](https://user-images.githubusercontent.com/75128959/232316690-a4ab0884-553b-47ae-8818-463a6812e72a.png)
 
+
+![Screenshot (6)](https://user-images.githubusercontent.com/75128959/232317448-b0e25f45-2ae1-4616-b07b-e009bb31f299.png)
